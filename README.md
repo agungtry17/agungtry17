@@ -52,33 +52,26 @@
 
 | Project | Deskripsi |
 |---|---|
-| **[Kasiran POS Backoffice](https://github.com/agungtry17/kasiran-pos)** | Website backoffice untuk aplikasi POS, dibangun saat magang di Vrasmedia — Next.js/React + Node.js/Express |
-| **[Web Profil Desa Randugunting](https://github.com/agungtry17/desa-profile)** | Website profil desa berbasis Laravel — CRUD 9 modul, statistik penduduk interaktif, peta lokasi Leaflet, live di desarandugunting.my.id |
-| **[Web GIS Curah Hujan Rembang](https://github.com/agungtry17/web-gis-curah-hujan)** | Web GIS peta sebaran curah hujan Kabupaten Rembang |
-| **[AT STORE](https://github.com/agungtry17/at-store)** | E-commerce berbasis WordPress/WooCommerce dengan integrasi konfirmasi order via WhatsApp |
-| **[Sistem Pembelajaran Berbasis Moodle](https://github.com/agungtry17/moodle-pembelajaran)** | Platform pembelajaran siswa dibangun di atas Moodle |
+| **[Kasiran POS Backoffice](https://github.com/agungtry17/Project-Kasiran-POS)** | Website backoffice untuk aplikasi POS, dibangun saat magang di Vrasmedia — Next.js/React + Node.js/Express |
+| **[Web Profil Desa Randugunting](https://github.com/agungtry17/web_profil_desa)** | Website profil desa berbasis Laravel — CRUD 9 modul, statistik penduduk interaktif, peta lokasi Leaflet, live di desarandugunting.my.id |
+| **[Web GIS Curah Hujan Rembang](https://github.com/agungtry17/web_peta_qgis)** | Web GIS peta sebaran curah hujan Kabupaten Rembang |
+| **[AT STORE]** | E-commerce berbasis WordPress/WooCommerce dengan integrasi konfirmasi order via WhatsApp |
+| **[E-Learning SIPS Berbasis Moodle]** | Platform pembelajaran siswa dibangun di atas Moodle |
 
 **📱 Mobile Development (Flutter)**
 
 | Project | Deskripsi |
 |---|---|
-| **[PS Galaxy App](https://github.com/agungtry17/ps-galaxy-app)** | Sistem penjadwalan klub PS berbasis Flutter |
-| **[Finote App](https://github.com/agungtry17/finote-app)** | Aplikasi pencatatan keuangan berbasis Flutter |
+| **[PS Galaxy App](https://github.com/agungtry17/ps_galaxy_app)** | Sistem penjadwalan klub PS berbasis Flutter |
+| **[Finote App](https://github.com/agungtry17/Finote_app)** | Aplikasi pencatatan keuangan berbasis Flutter |
 
 **🎮 Game & AR (Unity)**
 
 | Project | Deskripsi |
 |---|---|
-| **[Kawan ID App](https://github.com/agungtry17/kawan-id-app)** | Game edukasi anak berbasis Unity |
-| **[AR Pembelajaran Anak TK](https://github.com/agungtry17/ar-pembelajaran-tk)** | Aplikasi Augmented Reality untuk pembelajaran anak TK, dibangun dengan Unity & Vuforia |
-| **[Quiz Anak SD](https://github.com/agungtry17/quiz-anak-sd)** | Game kuis tebak-tebakan pengetahuan umum untuk anak SD |
+| **[Kawan ID App](https://github.com/agungtry17/kawan_id)** | Game edukasi anak berbasis Unity |
+| **[AR Pembelajaran Anak TK]** | Aplikasi Augmented Reality untuk pembelajaran anak TK, dibangun dengan Unity & Vuforia |
 
-**🤖 Machine Learning & NLP**
-
-| Project | Deskripsi |
-|---|---|
-| **[Vertix – Goals Prediction](https://github.com/agungtry17/vertix-goals-prediction)** | Model machine learning prediksi jumlah gol pemain sepak bola, dideploy dengan framework Flask kustom |
-| **[OrgBot](https://github.com/agungtry17/orgbot)** | Chatbot Python/Streamlit dengan fuzzy matching (Levenshtein) & Finite State Automaton |
 
 ---
 
