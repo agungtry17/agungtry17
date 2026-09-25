@@ -6,15 +6,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20Development-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-orange" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-green" />
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🎓 Informatics Engineering student at **UPGRIS**
-- 💼 Ex-intern at **Vrasmedia IT Solution** — built a full-stack POS backoffice system
+- 💼 Ex-intern at **Vrasmedia IT Solution** — Frontend Development
 - 🌱 Interests: **Web Development**
 - 🌏 I speak Bahasa Indonesia.
 
@@ -88,5 +86,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/username-kamu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" /></a>
-  <a href="mailto:email-kamu@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
+  <a href="agungtrylaksono17.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
 </p>
